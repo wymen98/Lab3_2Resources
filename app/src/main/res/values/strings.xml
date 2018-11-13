@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Lab 3.2 Resources</string>
+    <string name="message">Hello World!</string>
+    <string name="show">Show</string>
+    <string name="greeting">How are you？</string>
+
+    //to support the language code
+    //resource folder  -  language code  -  Country Code
+    //values-ms-rMY
+    //values-zh-rCN
+</resources>
